@@ -1,0 +1,821 @@
+Job Title,Department,Age,Gender,Marital Status,Years of Service,Mode of Exit,Date of Exit,Reasons For Exit,Salary
+Marketing Analyst,Field Operations,31,Female,Single,4,Termination,9/30/2024,Policy violation,338.5416667
+Marketing Analyst,Field Operations,60,Female,Single,6,Retirement,8/21/2023,Work-life balance,357.3333333
+Marketing Analyst,Sales & Marketing,60,Male,Married,5,Retirement,1/11/2024,End of service,594.4166667
+Software Developer,Data Analytics,26,Female,Married,7,Termination,5/2/2023,End of service,439.5833333
+Sales Executive,Project Management,60,Female,Married,2,Retirement,2/14/2024,Policy violation,737.9166667
+Marketing Analyst,Customer Service,60,Female,Married,6,Retirement,7/28/2023,Performance issues,364.75
+HR Specialist,Network Operations,26,Female,Married,2,Termination,12/29/2023,Better opportunity,325.5833333
+Software Developer,Human Resources,49,Male,Married,7,Termination,3/31/2024,End of service,345.5833333
+Network Engineer,Project Management,35,Male,Married,2,Termination,1/3/2025,Performance issues,159.375
+Telecom Technician,Project Management,24,Female,Single,6,Resignation,10/1/2023,Better opportunity,128.7916667
+IT Support Engineer,Human Resources,60,Male,Single,3,Retirement,8/15/2023,Personal reasons,175.2916667
+Marketing Analyst,Sales & Marketing,60,Male,Single,2,Retirement,3/22/2023,Restructuring,569.1666667
+Sales Executive,Customer Service,48,Male,Married,3,Resignation,2/6/2022,Restructuring,260.3333333
+Billing Specialist,Human Resources,60,Male,Single,2,Retirement,1/11/2025,Better opportunity,281.0416667
+Data Scientist,Field Operations,57,Male,Single,8,Resignation,9/1/2023,Career growth,526.3333333
+Customer Support Agent,Project Management,60,Female,Single,4,Retirement,3/3/2022,Better opportunity,461.625
+Data Scientist,Customer Service,60,Female,Married,4,Retirement,1/18/2023,Career growth,334.7916667
+Network Engineer,Billing,51,Male,Married,8,Resignation,7/12/2024,Better opportunity,438.1666667
+Software Developer,IT & Software,60,Male,Married,2,Retirement,2/10/2023,Performance issues,282.7916667
+Project Manager,Network Operations,22,Female,Single,7,Resignation,6/8/2023,Better opportunity,434.375
+Marketing Analyst,Human Resources,40,Male,Married,5,Resignation,6/19/2023,Policy violation,389.0416667
+Software Developer,Data Analytics,51,Male,Single,3,Resignation,12/7/2024,Work-life balance,132.8333333
+Software Developer,Sales & Marketing,60,Male,Single,6,Retirement,11/19/2023,Policy violation,389.2916667
+Customer Support Agent,Human Resources,60,Female,Married,2,Retirement,12/9/2024,Policy violation,356
+Network Engineer,Field Operations,60,Female,Married,5,Retirement,3/15/2023,End of service,370.5416667
+Network Engineer,Human Resources,47,Female,Married,6,Resignation,7/10/2023,Pursuing education,358
+Billing Specialist,Sales & Marketing,25,Female,Married,6,Resignation,10/30/2024,Work-life balance,337.5833333
+Billing Specialist,Sales & Marketing,54,Male,Single,3,Resignation,5/24/2023,Personal reasons,405.7916667
+Data Scientist,Billing,60,Female,Married,4,Retirement,11/10/2024,Personal reasons,455.0833333
+IT Support Engineer,Data Analytics,36,Male,Single,5,Resignation,6/3/2022,Pursuing education,188.25
+Marketing Analyst,Field Operations,55,Female,Married,6,Retirement,4/29/2023,Better opportunity,289.25
+HR Specialist,Network Operations,45,Male,Single,8,Resignation,9/21/2022,Policy violation,318.1666667
+Network Engineer,Data Analytics,60,Female,Single,5,Retirement,11/30/2023,End of service,185.8333333
+Project Manager,Field Operations,60,Female,Single,8,Retirement,8/17/2023,Performance issues,436.75
+Customer Support Agent,Data Analytics,60,Female,Married,1,Retirement,2/16/2024,Better opportunity,501.125
+IT Support Engineer,Project Management,37,Female,Married,8,Termination,2/9/2025,Performance issues,275.0416667
+Billing Specialist,Project Management,50,Male,Married,6,Resignation,11/9/2023,Better opportunity,286.4166667
+HR Specialist,Network Operations,38,Male,Married,6,Termination,4/1/2023,Pursuing education,559.375
+Telecom Technician,Network Operations,33,Female,Married,1,Resignation,2/4/2024,Pursuing education,162.1666667
+Product Manager,Field Operations,60,Male,Married,5,Retirement,5/25/2024,Restructuring,448.0416667
+Software Developer,Field Operations,22,Female,Married,8,Resignation,8/4/2023,Restructuring,153.8333333
+Product Manager,Billing,45,Male,Single,7,Termination,2/6/2024,Restructuring,299
+Software Developer,Project Management,48,Female,Single,2,Termination,7/11/2023,Career growth,324.3333333
+Software Developer,Field Operations,28,Male,Married,6,Resignation,6/9/2023,Work-life balance,250.1666667
+Software Developer,Project Management,59,Male,Married,4,Termination,9/9/2023,Better opportunity,402.25
+IT Support Engineer,Field Operations,60,Female,Married,3,Retirement,5/8/2023,Performance issues,345.75
+Customer Support Agent,Field Operations,32,Female,Married,3,Termination,6/26/2024,Career growth,321.0833333
+Billing Specialist,Network Operations,35,Male,Married,6,Termination,6/9/2023,Policy violation,138.5
+IT Support Engineer,Billing,60,Male,Single,3,Retirement,11/19/2024,Pursuing education,645.75
+Software Developer,Data Analytics,60,Male,Single,2,Resignation,4/14/2023,Better opportunity,452.7916667
+Software Developer,Customer Service,57,Female,Single,8,Resignation,7/10/2024,Pursuing education,285.4166667
+Network Engineer,Network Operations,33,Male,Married,2,Termination,7/5/2024,Personal reasons,307.6666667
+IT Support Engineer,Field Operations,45,Male,Single,1,Termination,5/13/2024,Better opportunity,414.75
+Sales Executive,Human Resources,28,Male,Married,5,Termination,6/13/2023,Work-life balance,209.2916667
+Sales Executive,Customer Service,48,Male,Married,6,Termination,8/11/2024,Work-life balance,493.4166667
+Sales Executive,IT & Software,25,Female,Married,4,Termination,9/25/2023,Policy violation,317.9166667
+Billing Specialist,Sales & Marketing,59,Female,Married,3,Resignation,8/9/2023,Pursuing education,322.7916667
+IT Support Engineer,Field Operations,60,Male,Married,2,Retirement,5/18/2024,Career growth,391.8333333
+Network Engineer,Billing,27,Female,Married,7,Resignation,12/19/2024,End of service,269.5
+Marketing Analyst,Billing,60,Female,Married,3,Retirement,7/25/2023,Work-life balance,452.2916667
+Network Engineer,Billing,39,Female,Single,4,Termination,12/23/2024,Career growth,168.5416667
+Telecom Technician,Data Analytics,60,Female,Single,3,Retirement,11/27/2024,Performance issues,398.75
+Customer Support Agent,Billing,22,Female,Single,8,Termination,7/29/2022,End of service,313.5
+HR Specialist,Billing,57,Female,Married,2,Termination,9/26/2024,End of service,213.1666667
+Network Engineer,Customer Service,60,Male,Married,8,Retirement,3/11/2024,Personal reasons,190.125
+Data Scientist,Project Management,60,Male,Married,4,Retirement,9/24/2024,Performance issues,355.0416667
+Project Manager,Field Operations,40,Male,Single,3,Resignation,8/30/2024,Restructuring,638.125
+Project Manager,Sales & Marketing,51,Male,Single,8,Resignation,5/27/2022,Performance issues,398.375
+HR Specialist,Project Management,60,Female,Married,5,Retirement,12/19/2023,Career growth,338.3333333
+Software Developer,Data Analytics,60,Female,Single,2,Retirement,7/20/2023,Restructuring,316.375
+Marketing Analyst,Network Operations,57,Female,Single,7,Termination,5/28/2023,Restructuring,149.0833333
+Sales Executive,Billing,37,Male,Single,2,Termination,12/17/2024,Policy violation,444.5416667
+Data Scientist,Customer Service,47,Male,Single,2,Resignation,8/20/2024,Performance issues,193.75
+IT Support Engineer,IT & Software,45,Male,Married,5,Termination,1/7/2025,End of service,227.9166667
+Software Developer,Data Analytics,22,Male,Married,8,Resignation,2/18/2024,Personal reasons,222.375
+IT Support Engineer,Human Resources,26,Male,Single,3,Termination,5/2/2023,End of service,428.1666667
+Network Engineer,Field Operations,45,Male,Single,6,Resignation,3/29/2023,Better opportunity,247.375
+Software Developer,Customer Service,60,Male,Married,3,Retirement,9/10/2024,Pursuing education,249.7916667
+Billing Specialist,Customer Service,60,Male,Married,4,Retirement,1/1/2024,Restructuring,290.25
+Marketing Analyst,Network Operations,60,Male,Single,5,Retirement,1/11/2025,Pursuing education,380.3333333
+Software Developer,Billing,56,Male,Single,6,Retirement,11/19/2024,Pursuing education,286.5
+Software Developer,Network Operations,60,Female,Married,7,Retirement,8/29/2023,End of service,206.6666667
+Sales Executive,Field Operations,59,Male,Single,4,Termination,6/11/2023,Work-life balance,345.5416667
+Product Manager,Field Operations,60,Male,Married,8,Retirement,12/16/2024,Better opportunity,231.5
+Data Scientist,Billing,41,Female,Married,7,Termination,11/20/2023,Better opportunity,141.75
+Marketing Analyst,IT & Software,51,Female,Single,6,Resignation,12/21/2024,Performance issues,484.5
+Product Manager,Field Operations,42,Female,Married,8,Resignation,10/20/2023,Career growth,328.625
+Data Scientist,Human Resources,42,Male,Single,2,Resignation,8/29/2024,Better opportunity,551.6666667
+Network Engineer,Field Operations,50,Male,Single,5,Termination,1/12/2024,Policy violation,287.5833333
+IT Support Engineer,Human Resources,55,Female,Single,2,Termination,8/24/2023,Policy violation,270.1666667
+Marketing Analyst,Network Operations,44,Female,Single,6,Termination,7/25/2023,Policy violation,621.875
+IT Support Engineer,Billing,39,Male,Single,6,Termination,10/13/2022,Policy violation,593.5416667
+Sales Executive,Data Analytics,51,Female,Single,4,Resignation,8/2/2024,Policy violation,685.9166667
+Sales Executive,Billing,60,Female,Single,7,Retirement,1/30/2025,Restructuring,323.0416667
+Data Scientist,Network Operations,60,Female,Single,2,Retirement,3/22/2023,Policy violation,453
+Data Scientist,Human Resources,34,Male,Single,6,Termination,8/23/2023,Restructuring,303.4166667
+Network Engineer,Network Operations,60,Male,Married,2,Retirement,3/2/2024,Pursuing education,456.8333333
+Project Manager,Customer Service,60,Female,Single,8,Retirement,5/18/2023,Work-life balance,229.5833333
+HR Specialist,Billing,39,Female,Single,3,Termination,8/26/2023,Career growth,394.9166667
+Customer Support Agent,Billing,22,Female,Married,3,Resignation,1/4/2025,Policy violation,463.1666667
+IT Support Engineer,IT & Software,60,Female,Single,6,Retirement,4/15/2024,Personal reasons,189.3333333
+Telecom Technician,Sales & Marketing,60,Male,Married,7,Retirement,4/13/2023,Better opportunity,570.0833333
+Marketing Analyst,Field Operations,44,Female,Single,8,Termination,5/23/2022,Policy violation,300.375
+Billing Specialist,Project Management,60,Female,Married,3,Retirement,7/2/2024,Performance issues,466.7916667
+Marketing Analyst,IT & Software,23,Male,Single,5,Resignation,3/29/2023,Better opportunity,429.875
+Product Manager,Project Management,60,Female,Single,5,Retirement,12/12/2023,Better opportunity,583.5833333
+Network Engineer,Sales & Marketing,54,Female,Married,2,Resignation,7/24/2024,Performance issues,257.4166667
+Telecom Technician,Field Operations,37,Female,Married,3,Resignation,5/13/2023,Personal reasons,125.4166667
+Product Manager,IT & Software,60,Female,Married,7,Retirement,1/27/2025,Restructuring,550.75
+Marketing Analyst,Billing,60,Male,Single,1,Retirement,6/22/2024,Personal reasons,545.5416667
+Billing Specialist,Project Management,29,Male,Single,1,Termination,11/21/2023,Restructuring,274.125
+Marketing Analyst,Network Operations,58,Male,Single,7,Retirement,3/26/2024,Pursuing education,394.8333333
+Customer Support Agent,Customer Service,59,Male,Single,5,Termination,4/15/2023,Performance issues,365.5833333
+Data Scientist,Project Management,36,Female,Married,6,Resignation,7/4/2023,Personal reasons,555.75
+IT Support Engineer,Billing,48,Female,Married,7,Termination,8/15/2023,Performance issues,432.7916667
+Software Developer,Sales & Marketing,60,Male,Single,3,Retirement,6/9/2023,Career growth,354.7916667
+Software Developer,Network Operations,33,Male,Married,2,Resignation,5/12/2024,Personal reasons,375.625
+HR Specialist,Billing,32,Male,Married,1,Resignation,10/13/2023,Pursuing education,520.75
+Data Scientist,Billing,60,Female,Married,5,Retirement,10/25/2024,Performance issues,281.875
+Product Manager,Data Analytics,41,Female,Married,2,Termination,5/9/2023,Work-life balance,150.125
+Sales Executive,Sales & Marketing,31,Male,Single,4,Resignation,5/31/2024,Personal reasons,229.2916667
+HR Specialist,Customer Service,60,Female,Single,7,Retirement,11/17/2023,Career growth,384.3333333
+Billing Specialist,Network Operations,60,Male,Married,7,Retirement,8/12/2024,End of service,335.7916667
+Product Manager,IT & Software,60,Male,Married,9,Retirement,5/27/2023,Career growth,529.375
+Software Developer,Field Operations,53,Female,Married,9,Termination,4/5/2024,Work-life balance,160.0416667
+Sales Executive,Human Resources,60,Female,Married,2,Retirement,9/18/2023,Work-life balance,371.875
+Sales Executive,IT & Software,41,Female,Married,3,Termination,2/1/2025,Pursuing education,321.4166667
+Marketing Analyst,Human Resources,42,Female,Single,4,Termination,5/3/2024,Restructuring,597.625
+Software Developer,Data Analytics,39,Male,Married,7,Termination,6/12/2024,End of service,151.125
+IT Support Engineer,Field Operations,60,Male,Single,7,Retirement,7/14/2024,Performance issues,286.2916667
+Customer Support Agent,Human Resources,60,Male,Married,7,Retirement,3/28/2023,Restructuring,252.4166667
+IT Support Engineer,Network Operations,57,Female,Single,7,Resignation,10/1/2024,Performance issues,274.75
+Sales Executive,IT & Software,37,Male,Single,7,Termination,2/9/2025,Restructuring,430.6666667
+HR Specialist,Customer Service,60,Male,Married,10,Retirement,1/1/2025,Performance issues,258.75
+Sales Executive,Human Resources,60,Male,Single,8,Retirement,9/13/2023,Better opportunity,264.25
+Software Developer,Billing,59,Male,Single,3,Retirement,2/17/2024,Pursuing education,445.4166667
+Project Manager,Billing,30,Female,Married,10,Termination,3/25/2024,Pursuing education,405.6666667
+HR Specialist,IT & Software,53,Male,Married,5,Resignation,4/17/2024,Better opportunity,232.625
+Sales Executive,Network Operations,28,Female,Single,5,Termination,7/21/2024,Restructuring,372.8333333
+HR Specialist,Customer Service,60,Male,Single,10,Retirement,12/7/2024,Performance issues,455.1666667
+Project Manager,Customer Service,60,Female,Single,4,Retirement,3/25/2023,Performance issues,503.9166667
+IT Support Engineer,Customer Service,29,Female,Married,3,Termination,8/13/2023,Performance issues,135.125
+Billing Specialist,Human Resources,49,Female,Married,7,Termination,5/7/2024,End of service,379.625
+Telecom Technician,Project Management,60,Male,Single,4,Resignation,3/1/2024,Career growth,336.0833333
+Software Developer,IT & Software,22,Male,Single,6,Termination,11/24/2023,Better opportunity,273.25
+IT Support Engineer,Customer Service,60,Male,Single,9,Retirement,10/18/2024,Policy violation,325.0833333
+Software Developer,Project Management,60,Male,Single,1,Retirement,2/12/2024,Better opportunity,382.75
+Marketing Analyst,Field Operations,41,Male,Married,3,Termination,10/1/2024,Work-life balance,551.7916667
+Marketing Analyst,Sales & Marketing,57,Male,Single,3,Resignation,4/24/2023,Pursuing education,336.1666667
+Project Manager,IT & Software,31,Female,Married,6,Resignation,7/31/2023,Policy violation,431.5
+Software Developer,Customer Service,60,Male,Married,2,Retirement,2/27/2024,Policy violation,312.25
+Project Manager,Billing,44,Female,Single,2,Termination,10/2/2024,Work-life balance,382.5833333
+Software Developer,Sales & Marketing,42,Female,Single,7,Resignation,3/31/2024,Pursuing education,737.3333333
+Software Developer,Network Operations,44,Female,Married,2,Resignation,11/20/2024,Policy violation,690.0416667
+Marketing Analyst,Network Operations,37,Male,Married,6,Resignation,9/27/2023,End of service,491.625
+Project Manager,Human Resources,43,Male,Married,7,Resignation,10/6/2023,Performance issues,704.5416667
+Software Developer,Project Management,55,Male,Married,7,Resignation,8/9/2024,Pursuing education,304.4166667
+HR Specialist,Project Management,48,Male,Single,2,Resignation,6/28/2023,Work-life balance,288.375
+Product Manager,Sales & Marketing,60,Female,Married,4,Retirement,8/2/2023,Work-life balance,137.0833333
+Marketing Analyst,Sales & Marketing,60,Female,Married,7,Retirement,7/10/2023,Work-life balance,304.125
+Data Scientist,Customer Service,40,Male,Single,4,Termination,10/4/2023,Work-life balance,208.0833333
+Software Developer,Network Operations,52,Female,Married,3,Termination,5/2/2024,Pursuing education,296.6666667
+Sales Executive,Data Analytics,60,Female,Married,3,Retirement,10/23/2024,Better opportunity,303
+Network Engineer,IT & Software,60,Female,Single,4,Resignation,6/12/2024,Policy violation,327.625
+Project Manager,IT & Software,60,Male,Single,4,Retirement,6/8/2024,Better opportunity,347.375
+Data Scientist,Field Operations,38,Female,Married,2,Termination,6/25/2023,Pursuing education,173.875
+Sales Executive,Project Management,39,Male,Single,4,Resignation,2/3/2024,Better opportunity,352.25
+HR Specialist,Human Resources,60,Male,Married,7,Retirement,8/13/2023,Personal reasons,354
+Telecom Technician,Customer Service,33,Male,Single,4,Resignation,1/21/2025,Better opportunity,542.0833333
+Marketing Analyst,Human Resources,35,Male,Married,7,Termination,2/23/2024,Performance issues,228.5
+Sales Executive,Sales & Marketing,32,Female,Single,2,Termination,8/6/2024,Career growth,204.5
+Customer Support Agent,Network Operations,31,Female,Single,7,Termination,10/1/2024,Better opportunity,332.5416667
+Billing Specialist,IT & Software,39,Female,Single,4,Termination,11/22/2024,Restructuring,265
+Product Manager,Billing,60,Male,Married,1,Retirement,11/19/2024,Policy violation,505.6666667
+Product Manager,Billing,46,Male,Married,7,Resignation,8/10/2023,Better opportunity,189.5833333
+IT Support Engineer,Sales & Marketing,42,Female,Married,10,Resignation,6/27/2024,End of service,486.25
+Telecom Technician,Sales & Marketing,26,Female,Single,4,Resignation,3/25/2024,Restructuring,180.625
+Billing Specialist,Customer Service,39,Female,Married,4,Resignation,4/4/2024,Better opportunity,684.4166667
+Billing Specialist,IT & Software,60,Female,Single,4,Retirement,2/28/2024,Work-life balance,706.375
+Customer Support Agent,Billing,37,Female,Married,4,Termination,9/4/2023,Performance issues,354.875
+Telecom Technician,IT & Software,60,Male,Single,4,Retirement,4/11/2023,Personal reasons,273
+Marketing Analyst,Field Operations,36,Female,Married,9,Termination,11/8/2024,Work-life balance,565.125
+HR Specialist,Billing,40,Male,Single,2,Retirement,7/25/2024,Restructuring,328.4166667
+Marketing Analyst,Sales & Marketing,31,Female,Single,2,Termination,11/1/2024,Policy violation,189.75
+Data Scientist,Sales & Marketing,50,Female,Married,10,Termination,10/20/2023,Work-life balance,146.8333333
+Software Developer,Sales & Marketing,31,Male,Single,7,Termination,10/31/2024,Restructuring,386.5
+Customer Support Agent,IT & Software,28,Male,Married,8,Termination,5/20/2023,End of service,389.375
+Customer Support Agent,Sales & Marketing,38,Male,Married,4,Resignation,7/4/2023,Restructuring,368.5
+Telecom Technician,IT & Software,31,Male,Single,7,Resignation,7/3/2023,Career growth,252
+Telecom Technician,IT & Software,23,Male,Single,7,Termination,9/4/2024,Performance issues,429.125
+Data Scientist,Billing,35,Female,Single,1,Termination,10/22/2024,Career growth,376.9166667
+Telecom Technician,Billing,31,Male,Married,7,Termination,12/26/2024,Policy violation,389.75
+Telecom Technician,Field Operations,49,Female,Single,2,Termination,12/5/2023,Performance issues,638.375
+Project Manager,Network Operations,31,Female,Married,4,Termination,10/24/2024,End of service,202.0833333
+Telecom Technician,Network Operations,60,Female,Married,4,Retirement,1/7/2024,Better opportunity,132.4166667
+Marketing Analyst,Project Management,28,Male,Married,5,Termination,10/22/2023,Performance issues,398.4166667
+Data Scientist,Billing,27,Male,Single,4,Termination,9/29/2023,Personal reasons,332.75
+Network Engineer,Field Operations,60,Female,Married,2,Retirement,8/24/2023,Work-life balance,374.4166667
+Customer Support Agent,IT & Software,57,Female,Single,5,Resignation,4/20/2023,Personal reasons,347.0833333
+Customer Support Agent,Sales & Marketing,36,Female,Single,10,Resignation,12/30/2023,Restructuring,199.6666667
+Sales Executive,Billing,60,Female,Married,2,Retirement,2/6/2025,Career growth,492.625
+Telecom Technician,IT & Software,60,Female,Single,4,Retirement,3/19/2023,Policy violation,285.8333333
+Project Manager,Customer Service,39,Female,Married,7,Termination,9/8/2023,Policy violation,437.125
+Billing Specialist,Billing,56,Female,Married,6,Termination,11/28/2024,Personal reasons,461.75
+Customer Support Agent,IT & Software,60,Female,Single,10,Resignation,8/14/2023,Better opportunity,283.9166667
+Sales Executive,Data Analytics,60,Male,Single,4,Retirement,6/30/2024,End of service,226.8333333
+Sales Executive,Network Operations,32,Female,Married,9,Termination,3/4/2024,Work-life balance,236.0416667
+Data Scientist,Human Resources,60,Male,Married,4,Retirement,4/5/2024,Personal reasons,548.9166667
+Product Manager,Customer Service,60,Male,Single,2,Retirement,5/11/2023,Pursuing education,251.5833333
+HR Specialist,Customer Service,60,Female,Single,8,Retirement,12/15/2023,End of service,279.75
+Product Manager,Sales & Marketing,29,Male,Single,5,Termination,7/19/2024,Work-life balance,292.0416667
+Network Engineer,Project Management,48,Female,Married,10,Termination,2/23/2024,Personal reasons,155.2916667
+Data Scientist,Sales & Marketing,27,Male,Married,7,Resignation,11/26/2023,Restructuring,493
+Marketing Analyst,Sales & Marketing,60,Female,Single,4,Retirement,11/7/2024,Work-life balance,550.6666667
+Data Scientist,Human Resources,45,Male,Married,9,Termination,8/9/2024,Policy violation,636.5416667
+Marketing Analyst,Data Analytics,60,Male,Married,8,Retirement,10/17/2023,Pursuing education,356.5
+Telecom Technician,Sales & Marketing,60,Female,Married,7,Retirement,10/4/2024,Personal reasons,393.0833333
+Network Engineer,Data Analytics,56,Female,Married,3,Termination,9/12/2023,Restructuring,389.2916667
+IT Support Engineer,Sales & Marketing,55,Female,Married,8,Resignation,6/24/2023,Work-life balance,385.2916667
+Customer Support Agent,IT & Software,60,Male,Single,7,Retirement,6/7/2024,Better opportunity,302.875
+Marketing Analyst,Data Analytics,43,Male,Married,2,Resignation,6/16/2023,Work-life balance,362.6666667
+Telecom Technician,Data Analytics,29,Male,Single,9,Termination,10/31/2024,Personal reasons,308.2916667
+Customer Support Agent,Data Analytics,60,Male,Married,7,Retirement,4/21/2024,Career growth,394.5416667
+Marketing Analyst,Data Analytics,35,Female,Married,7,Termination,8/14/2023,Performance issues,463.5833333
+IT Support Engineer,Network Operations,26,Female,Single,2,Termination,8/7/2023,Personal reasons,423.2916667
+Customer Support Agent,Customer Service,29,Male,Married,4,Resignation,10/3/2023,Restructuring,125.8333333
+IT Support Engineer,Human Resources,28,Female,Married,4,Resignation,9/11/2023,Performance issues,498.6666667
+Telecom Technician,Sales & Marketing,54,Male,Married,4,Resignation,1/13/2024,Career growth,334.2916667
+Customer Support Agent,IT & Software,22,Male,Married,4,Resignation,7/1/2024,Performance issues,288.875
+Product Manager,Field Operations,30,Male,Single,4,Resignation,8/17/2024,Policy violation,381.0416667
+Data Scientist,IT & Software,56,Female,Married,10,Termination,5/24/2023,Better opportunity,332.7916667
+Network Engineer,Human Resources,57,Male,Single,5,Termination,5/11/2024,Pursuing education,600
+Telecom Technician,Human Resources,60,Male,Married,1,Termination,5/9/2024,Performance issues,659.5833333
+Telecom Technician,Sales & Marketing,60,Female,Married,7,Retirement,8/14/2023,Work-life balance,292.375
+Telecom Technician,Sales & Marketing,56,Female,Single,8,Resignation,7/15/2024,Better opportunity,356.5
+Telecom Technician,Network Operations,42,Male,Single,1,Resignation,2/16/2024,Better opportunity,447.0833333
+Customer Support Agent,Billing,39,Male,Single,2,Resignation,2/18/2024,Career growth,546.0833333
+Telecom Technician,IT & Software,45,Female,Single,9,Resignation,4/24/2024,Pursuing education,287
+IT Support Engineer,Billing,39,Male,Married,7,Resignation,5/14/2023,Performance issues,539.125
+Customer Support Agent,Project Management,49,Female,Single,3,Termination,9/17/2024,End of service,559.875
+Marketing Analyst,Customer Service,45,Female,Married,8,Termination,1/15/2024,End of service,349.5416667
+Billing Specialist,Project Management,24,Male,Single,4,Termination,8/13/2024,Personal reasons,313.0833333
+Product Manager,Billing,60,Male,Married,6,Retirement,7/15/2023,Work-life balance,145.1666667
+Telecom Technician,Billing,60,Female,Single,4,Retirement,11/6/2023,Better opportunity,416.6666667
+Network Engineer,Network Operations,44,Female,Single,2,Termination,8/15/2023,Policy violation,592.9166667
+Data Scientist,Network Operations,60,Male,Married,1,Retirement,4/19/2023,Better opportunity,473.75
+Network Engineer,Field Operations,60,Female,Married,9,Retirement,3/30/2023,Restructuring,448.2916667
+Marketing Analyst,Customer Service,29,Male,Married,2,Termination,10/23/2023,Personal reasons,325.75
+Project Manager,Human Resources,39,Male,Married,3,Termination,9/8/2023,Personal reasons,205.625
+Telecom Technician,Billing,23,Male,Single,8,Resignation,9/2/2023,Policy violation,570.375
+Software Developer,Data Analytics,50,Male,Single,10,Resignation,12/2/2024,Career growth,304.375
+Marketing Analyst,Billing,41,Male,Single,5,Resignation,12/7/2023,Pursuing education,383
+Data Scientist,IT & Software,60,Female,Married,6,Retirement,6/23/2023,Better opportunity,388
+Data Scientist,Sales & Marketing,44,Male,Single,4,Resignation,11/25/2023,Personal reasons,312
+Marketing Analyst,Billing,43,Male,Single,9,Resignation,10/8/2024,Career growth,181.5416667
+Product Manager,Field Operations,49,Female,Single,9,Termination,7/3/2024,Pursuing education,569.9166667
+Customer Support Agent,Human Resources,59,Male,Single,7,Termination,11/30/2023,End of service,157.7916667
+IT Support Engineer,Data Analytics,56,Female,Single,7,Resignation,9/14/2024,Career growth,583.2916667
+IT Support Engineer,Project Management,60,Male,Single,4,Retirement,7/2/2023,Work-life balance,604.6666667
+Customer Support Agent,Network Operations,41,Female,Married,6,Termination,6/21/2024,End of service,198.5833333
+IT Support Engineer,Network Operations,58,Female,Single,1,Resignation,4/24/2023,Work-life balance,657.625
+Telecom Technician,Project Management,27,Female,Married,7,Resignation,1/31/2025,Better opportunity,376
+Sales Executive,Sales & Marketing,60,Female,Married,6,Resignation,3/14/2024,End of service,225
+Network Engineer,Project Management,54,Male,Married,4,Resignation,8/21/2024,Career growth,449.75
+Product Manager,Network Operations,54,Female,Married,10,Resignation,5/23/2024,Performance issues,647
+Product Manager,Customer Service,46,Male,Married,9,Resignation,3/5/2024,Policy violation,362.375
+Data Scientist,Field Operations,60,Female,Married,2,Retirement,5/15/2023,End of service,195
+Project Manager,Sales & Marketing,53,Female,Single,4,Resignation,8/25/2024,Restructuring,420.0416667
+Customer Support Agent,Human Resources,60,Female,Married,7,Retirement,11/4/2023,Personal reasons,200
+Software Developer,Human Resources,60,Male,Married,4,Retirement,8/24/2024,Pursuing education,452
+Data Scientist,Field Operations,27,Female,Married,4,Resignation,2/4/2025,Restructuring,351.4166667
+Software Developer,Project Management,60,Female,Single,4,Retirement,8/8/2023,Work-life balance,217.8333333
+IT Support Engineer,Project Management,27,Female,Single,4,Termination,7/1/2023,Better opportunity,199.0416667
+Software Developer,Customer Service,23,Female,Single,7,Termination,3/27/2023,Policy violation,236.5833333
+IT Support Engineer,IT & Software,27,Female,Single,10,Resignation,7/23/2024,Personal reasons,404.25
+Billing Specialist,Data Analytics,27,Female,Single,8,Termination,7/11/2024,Policy violation,463.1666667
+Network Engineer,Sales & Marketing,37,Male,Married,2,Termination,8/1/2024,Work-life balance,371.5833333
+HR Specialist,Network Operations,33,Male,Single,1,Termination,8/20/2024,Pursuing education,466.7916667
+Marketing Analyst,Data Analytics,37,Female,Single,4,Resignation,1/23/2024,Pursuing education,172.0416667
+Sales Executive,Project Management,60,Male,Married,1,Retirement,7/25/2024,Career growth,335.8333333
+Data Scientist,Data Analytics,58,Male,Married,1,Resignation,2/22/2024,Restructuring,346.4166667
+Data Scientist,Network Operations,29,Male,Married,7,Resignation,5/15/2024,End of service,405.5416667
+Project Manager,IT & Software,60,Female,Married,2,Retirement,10/13/2023,Restructuring,240.3333333
+IT Support Engineer,Field Operations,60,Male,Married,5,Retirement,12/8/2024,Policy violation,528.6666667
+Telecom Technician,Field Operations,60,Male,Married,7,Retirement,7/4/2024,End of service,192.4166667
+Marketing Analyst,Billing,48,Male,Single,9,Resignation,1/10/2024,Restructuring,274.0416667
+IT Support Engineer,Network Operations,44,Female,Married,2,Resignation,3/28/2023,Restructuring,407.5
+Marketing Analyst,Field Operations,56,Female,Single,1,Termination,8/27/2024,Performance issues,276.125
+Data Scientist,Sales & Marketing,42,Female,Single,5,Resignation,1/3/2025,Personal reasons,236.9166667
+Network Engineer,Customer Service,57,Male,Married,7,Resignation,6/9/2023,Career growth,152.0416667
+Customer Support Agent,Human Resources,52,Female,Married,8,Termination,1/22/2024,Restructuring,208.375
+Sales Executive,Billing,60,Male,Single,9,Retirement,7/24/2024,Performance issues,340.7916667
+Software Developer,IT & Software,51,Female,Single,8,Resignation,4/20/2024,End of service,334.375
+Billing Specialist,Billing,44,Female,Married,1,Termination,9/5/2023,Personal reasons,369.75
+Network Engineer,Billing,59,Male,Single,7,Termination,3/17/2023,Performance issues,451.5416667
+IT Support Engineer,Sales & Marketing,39,Male,Married,3,Termination,5/12/2024,Work-life balance,613.7916667
+IT Support Engineer,IT & Software,40,Female,Married,2,Resignation,4/21/2024,Work-life balance,479.3333333
+IT Support Engineer,IT & Software,60,Male,Married,2,Retirement,6/6/2023,Pursuing education,443.375
+IT Support Engineer,Data Analytics,39,Male,Married,7,Resignation,7/8/2023,Pursuing education,147.4166667
+Customer Support Agent,IT & Software,60,Male,Single,4,Retirement,11/28/2024,Restructuring,198.0833333
+Project Manager,Network Operations,45,Female,Married,4,Resignation,1/23/2024,Pursuing education,171.375
+Project Manager,Customer Service,53,Male,Single,3,Termination,4/22/2023,Personal reasons,294.5
+Product Manager,Network Operations,23,Female,Single,5,Termination,8/14/2024,Restructuring,147.8333333
+Product Manager,IT & Software,41,Male,Single,6,Resignation,10/26/2024,Work-life balance,443.9166667
+Telecom Technician,Billing,60,Male,Married,7,Retirement,4/12/2024,Better opportunity,162.0833333
+IT Support Engineer,Human Resources,60,Female,Single,4,Resignation,3/28/2023,Pursuing education,413.5833333
+Telecom Technician,Field Operations,49,Male,Single,2,Resignation,12/13/2023,Restructuring,355.6666667
+Customer Support Agent,Human Resources,60,Male,Single,2,Retirement,12/26/2024,Restructuring,267.7916667
+IT Support Engineer,Human Resources,60,Male,Single,9,Retirement,11/29/2023,Performance issues,432.0416667
+Billing Specialist,Human Resources,60,Female,Single,7,Retirement,3/15/2024,Work-life balance,162.0833333
+Billing Specialist,Customer Service,31,Female,Single,7,Resignation,10/1/2024,Restructuring,458.7916667
+Customer Support Agent,Project Management,55,Female,Single,8,Resignation,1/27/2025,Restructuring,375.375
+Software Developer,Human Resources,51,Male,Single,4,Termination,3/20/2023,Restructuring,508.125
+IT Support Engineer,Billing,37,Female,Married,4,Resignation,12/19/2024,End of service,282.5
+IT Support Engineer,Customer Service,58,Male,Single,7,Termination,9/10/2023,Pursuing education,339.7916667
+Customer Support Agent,Network Operations,25,Male,Married,4,Termination,7/28/2023,Performance issues,489.4166667
+Marketing Analyst,Billing,39,Male,Married,1,Termination,6/17/2023,Policy violation,315.9166667
+Telecom Technician,Customer Service,34,Female,Single,3,Resignation,6/26/2023,Performance issues,448.6666667
+Billing Specialist,Customer Service,60,Female,Married,7,Retirement,6/6/2024,Pursuing education,200.9166667
+Telecom Technician,Human Resources,60,Male,Married,4,Retirement,6/17/2024,Restructuring,387.75
+Project Manager,Sales & Marketing,59,Female,Married,2,Termination,1/23/2025,Career growth,136
+Network Engineer,Customer Service,38,Male,Single,4,Termination,12/19/2023,Performance issues,212.5833333
+Project Manager,Field Operations,60,Male,Single,8,Retirement,4/15/2023,Performance issues,440
+HR Specialist,Field Operations,41,Male,Single,3,Resignation,9/26/2023,End of service,386.25
+Customer Support Agent,Billing,54,Male,Married,8,Termination,2/3/2024,Better opportunity,481.875
+Sales Executive,Human Resources,29,Female,Single,6,Termination,9/25/2024,Better opportunity,308.2916667
+Network Engineer,Billing,39,Male,Married,4,Termination,2/11/2024,End of service,200.3333333
+Sales Executive,Billing,55,Female,Married,6,Termination,7/27/2023,Better opportunity,178.125
+Software Developer,Data Analytics,24,Female,Single,2,Resignation,1/4/2025,Work-life balance,191
+IT Support Engineer,Network Operations,40,Male,Married,7,Resignation,7/2/2023,Career growth,217.2916667
+Software Developer,Billing,42,Male,Married,9,Resignation,12/23/2023,Better opportunity,193.375
+Marketing Analyst,Customer Service,52,Female,Single,7,Termination,6/23/2024,Pursuing education,233.625
+Marketing Analyst,Project Management,56,Female,Single,2,Resignation,1/7/2025,Restructuring,468.4166667
+Project Manager,Field Operations,60,Female,Married,2,Retirement,6/10/2024,Pursuing education,463.9166667
+Customer Support Agent,Project Management,32,Female,Married,7,Termination,11/23/2024,Personal reasons,599.1666667
+HR Specialist,Sales & Marketing,60,Female,Single,10,Retirement,4/10/2024,Restructuring,731.5
+IT Support Engineer,Billing,33,Male,Single,2,Termination,4/5/2023,Career growth,662.6666667
+Data Scientist,Customer Service,60,Male,Single,1,Retirement,5/10/2024,Restructuring,311.125
+Project Manager,Customer Service,60,Female,Married,4,Retirement,1/31/2024,Pursuing education,203.125
+Project Manager,IT & Software,56,Male,Single,4,Resignation,6/3/2024,End of service,264.5833333
+Customer Support Agent,Field Operations,60,Female,Single,7,Retirement,7/17/2024,Better opportunity,426.2916667
+IT Support Engineer,Data Analytics,60,Female,Married,3,Retirement,8/7/2024,Career growth,211.8333333
+Sales Executive,Project Management,60,Male,Single,10,Retirement,8/9/2023,Personal reasons,358
+Billing Specialist,Billing,25,Female,Single,2,Resignation,3/2/2024,Policy violation,616.5
+Data Scientist,Billing,57,Female,Married,9,Termination,4/26/2024,End of service,426.6666667
+Marketing Analyst,Network Operations,60,Male,Married,3,Retirement,6/17/2024,End of service,245.0833333
+Project Manager,Project Management,60,Female,Single,5,Retirement,10/30/2023,Policy violation,298.75
+Data Scientist,Billing,47,Male,Married,2,Resignation,1/21/2025,Better opportunity,162.5
+IT Support Engineer,Billing,27,Female,Married,2,Termination,10/15/2023,Work-life balance,572.6666667
+Network Engineer,Sales & Marketing,60,Female,Married,7,Retirement,7/21/2024,Better opportunity,414.5416667
+Marketing Analyst,Customer Service,46,Male,Single,4,Termination,9/27/2023,Performance issues,230.9166667
+Marketing Analyst,Field Operations,56,Female,Single,4,Termination,4/19/2024,End of service,398.8333333
+Project Manager,Data Analytics,50,Male,Married,7,Termination,3/5/2024,Pursuing education,185.0416667
+Software Developer,Billing,26,Male,Single,7,Termination,2/5/2025,Policy violation,295.8333333
+Marketing Analyst,Human Resources,54,Female,Married,2,Termination,8/6/2023,Performance issues,353.5416667
+Billing Specialist,Human Resources,39,Male,Married,1,Termination,9/8/2024,Performance issues,322.1666667
+Telecom Technician,Human Resources,24,Female,Single,10,Termination,8/23/2024,Career growth,194.0833333
+Customer Support Agent,Sales & Marketing,56,Female,Married,7,Termination,11/8/2024,Pursuing education,245.125
+Billing Specialist,Field Operations,48,Female,Single,10,Resignation,12/16/2023,Better opportunity,447.3333333
+Product Manager,Network Operations,43,Male,Single,4,Resignation,6/24/2023,Career growth,241.0416667
+HR Specialist,Human Resources,25,Female,Married,6,Termination,7/11/2024,Policy violation,193.375
+Telecom Technician,Billing,60,Male,Married,4,Retirement,10/3/2024,End of service,416
+Project Manager,Data Analytics,42,Female,Single,2,Resignation,6/4/2024,Performance issues,139.5
+Sales Executive,Sales & Marketing,60,Female,Single,2,Retirement,10/15/2024,Performance issues,168.625
+Marketing Analyst,Field Operations,33,Male,Single,1,Termination,7/5/2024,Policy violation,448.5833333
+Product Manager,Customer Service,40,Male,Single,2,Termination,1/31/2024,Better opportunity,193.5416667
+Project Manager,Sales & Marketing,55,Female,Single,6,Resignation,7/7/2023,Performance issues,338.375
+Project Manager,Human Resources,23,Male,Single,4,Resignation,6/2/2023,Restructuring,574.5
+Sales Executive,Billing,51,Female,Single,7,Resignation,9/12/2023,Restructuring,335.7916667
+Marketing Analyst,Field Operations,38,Female,Single,4,Termination,4/9/2023,Better opportunity,404.25
+Marketing Analyst,Human Resources,57,Male,Married,7,Resignation,12/10/2024,End of service,276
+Product Manager,Data Analytics,52,Female,Married,4,Resignation,4/9/2023,Better opportunity,255.625
+Customer Support Agent,Project Management,57,Male,Single,7,Termination,12/15/2024,Work-life balance,311.25
+IT Support Engineer,Sales & Marketing,56,Male,Married,1,Resignation,9/23/2024,Performance issues,715.7916667
+Sales Executive,Customer Service,45,Male,Married,4,Resignation,8/9/2024,End of service,175.3333333
+Sales Executive,Data Analytics,60,Male,Married,2,Retirement,5/28/2023,Policy violation,182.0833333
+Project Manager,Field Operations,60,Female,Single,7,Retirement,1/28/2025,Restructuring,227
+Marketing Analyst,Human Resources,60,Female,Single,4,Retirement,9/15/2024,Career growth,443.4166667
+IT Support Engineer,Human Resources,30,Female,Single,2,Resignation,12/10/2023,End of service,235.8333333
+IT Support Engineer,IT & Software,28,Male,Single,4,Resignation,5/17/2024,Personal reasons,194.2916667
+Product Manager,Customer Service,59,Male,Single,3,Resignation,3/10/2024,Performance issues,521.7916667
+Telecom Technician,Customer Service,27,Female,Single,4,Termination,12/23/2023,Performance issues,345.6666667
+Project Manager,Human Resources,60,Male,Single,1,Retirement,9/25/2023,End of service,365.4166667
+Product Manager,Project Management,56,Male,Married,3,Resignation,1/17/2024,Career growth,368.1666667
+Sales Executive,IT & Software,38,Male,Married,5,Resignation,11/26/2024,End of service,564.0416667
+Marketing Analyst,Human Resources,44,Male,Single,5,Termination,7/21/2024,Work-life balance,329.5
+HR Specialist,Sales & Marketing,26,Male,Married,1,Termination,8/10/2023,Better opportunity,335.0833333
+Customer Support Agent,Sales & Marketing,60,Female,Single,2,Retirement,4/7/2023,Better opportunity,438.1666667
+Data Scientist,IT & Software,60,Male,Single,5,Retirement,7/28/2024,End of service,652.3333333
+Software Developer,Data Analytics,47,Female,Single,2,Termination,12/23/2023,Work-life balance,454.125
+Marketing Analyst,Field Operations,34,Male,Single,3,Termination,1/26/2025,Restructuring,185.2916667
+Sales Executive,Field Operations,60,Female,Single,8,Retirement,6/10/2023,Career growth,454.5
+IT Support Engineer,Customer Service,38,Female,Married,2,Resignation,8/12/2024,Pursuing education,433.625
+Billing Specialist,Sales & Marketing,58,Female,Single,1,Resignation,7/23/2024,Personal reasons,661.75
+Telecom Technician,Billing,60,Female,Married,3,Retirement,7/12/2024,Restructuring,332.5833333
+Marketing Analyst,Data Analytics,46,Male,Married,9,Termination,7/24/2024,Pursuing education,391.4166667
+HR Specialist,Data Analytics,60,Female,Married,10,Retirement,1/28/2025,Work-life balance,357.75
+Data Scientist,Sales & Marketing,60,Male,Married,7,Retirement,4/27/2024,Performance issues,158.875
+HR Specialist,Data Analytics,60,Male,Married,7,Resignation,5/6/2024,Work-life balance,431.875
+Sales Executive,Project Management,46,Male,Married,1,Resignation,4/13/2023,Career growth,377.9166667
+Customer Support Agent,Human Resources,60,Female,Married,7,Retirement,11/4/2024,Career growth,439.7916667
+Billing Specialist,Sales & Marketing,52,Male,Single,2,Termination,11/12/2024,Career growth,291.2916667
+Software Developer,Human Resources,34,Male,Single,2,Resignation,12/11/2023,Career growth,151.5833333
+Software Developer,Human Resources,60,Female,Married,4,Resignation,6/20/2024,Work-life balance,512.25
+Network Engineer,Network Operations,41,Female,Married,6,Termination,10/14/2023,Personal reasons,438.5
+Billing Specialist,IT & Software,60,Female,Single,4,Retirement,1/14/2025,Pursuing education,351.5833333
+Customer Support Agent,Field Operations,40,Female,Married,2,Resignation,4/23/2023,Career growth,125.3333333
+Marketing Analyst,Billing,60,Male,Single,4,Retirement,9/26/2024,End of service,187.4166667
+Sales Executive,Billing,53,Male,Single,9,Termination,4/16/2024,Policy violation,434.7916667
+Project Manager,IT & Software,45,Male,Married,7,Termination,11/13/2023,Career growth,593.5833333
+Billing Specialist,Field Operations,60,Male,Married,2,Retirement,8/31/2024,Work-life balance,325.375
+Marketing Analyst,Project Management,23,Female,Married,2,Termination,8/29/2024,Personal reasons,364.9166667
+Customer Support Agent,Field Operations,60,Male,Single,2,Retirement,8/6/2024,Better opportunity,293.625
+Data Scientist,IT & Software,28,Female,Single,6,Resignation,11/18/2024,Better opportunity,361.3333333
+Telecom Technician,Sales & Marketing,60,Female,Married,9,Retirement,4/26/2023,Restructuring,354.6666667
+Customer Support Agent,Field Operations,60,Male,Married,4,Retirement,4/23/2024,Better opportunity,295.5
+Project Manager,Project Management,60,Male,Single,5,Retirement,10/26/2023,Restructuring,423.25
+Sales Executive,IT & Software,47,Female,Single,8,Resignation,10/26/2023,Career growth,167.125
+Billing Specialist,IT & Software,60,Female,Married,2,Retirement,7/25/2023,Performance issues,295.9166667
+Software Developer,Human Resources,60,Male,Single,4,Retirement,5/13/2024,Restructuring,227.5416667
+Sales Executive,Data Analytics,60,Female,Married,2,Retirement,10/25/2024,Restructuring,422.0416667
+Software Developer,Data Analytics,32,Female,Single,3,Resignation,12/25/2024,Work-life balance,189.0416667
+Marketing Analyst,Customer Service,60,Female,Single,2,Retirement,9/20/2024,Career growth,459.0416667
+Sales Executive,Billing,22,Female,Married,6,Resignation,7/22/2024,Personal reasons,357
+Billing Specialist,Data Analytics,51,Female,Married,9,Termination,4/19/2023,Work-life balance,150.1666667
+Project Manager,Billing,57,Male,Married,4,Termination,9/3/2024,Personal reasons,412.0833333
+Telecom Technician,Sales & Marketing,60,Female,Married,1,Retirement,4/16/2024,Work-life balance,523.1666667
+Billing Specialist,Field Operations,35,Female,Married,4,Resignation,9/27/2024,Policy violation,405.625
+Telecom Technician,Network Operations,47,Female,Married,4,Resignation,5/12/2023,Restructuring,285
+Project Manager,Customer Service,48,Male,Married,2,Termination,4/7/2024,Personal reasons,200.8333333
+Telecom Technician,Data Analytics,60,Male,Married,5,Retirement,3/25/2024,Policy violation,278.25
+Software Developer,Billing,30,Female,Single,7,Resignation,3/30/2023,Better opportunity,324.0833333
+Network Engineer,Field Operations,60,Female,Married,7,Retirement,9/6/2023,Career growth,182
+IT Support Engineer,Customer Service,36,Male,Single,2,Resignation,12/19/2024,Work-life balance,414.625
+Billing Specialist,IT & Software,53,Female,Single,4,Resignation,2/1/2024,Performance issues,163.5
+Billing Specialist,Sales & Marketing,28,Male,Married,5,Termination,8/14/2023,Policy violation,242.75
+Product Manager,Project Management,42,Male,Married,1,Termination,10/13/2024,Policy violation,598.5416667
+Project Manager,Network Operations,60,Male,Married,4,Retirement,5/29/2024,End of service,321.5416667
+IT Support Engineer,Customer Service,49,Male,Single,9,Resignation,11/22/2023,Restructuring,151.1666667
+Project Manager,Network Operations,60,Female,Married,1,Retirement,9/21/2023,Personal reasons,632.2916667
+Sales Executive,Customer Service,60,Male,Single,4,Retirement,12/6/2024,Policy violation,336.4166667
+Customer Support Agent,Data Analytics,53,Female,Single,7,Resignation,5/4/2023,Better opportunity,339.75
+Billing Specialist,IT & Software,60,Female,Married,2,Retirement,12/25/2024,Better opportunity,391.25
+Billing Specialist,Network Operations,49,Male,Married,3,Resignation,3/23/2023,Better opportunity,272.25
+Product Manager,Field Operations,23,Female,Single,6,Termination,12/18/2024,Restructuring,274.5833333
+Product Manager,Data Analytics,50,Male,Single,2,Resignation,1/11/2024,Policy violation,323.4166667
+Network Engineer,Sales & Marketing,60,Male,Married,2,Retirement,7/28/2023,Personal reasons,516.5416667
+Network Engineer,Sales & Marketing,30,Male,Single,2,Termination,1/1/2025,Policy violation,223.125
+Telecom Technician,Human Resources,37,Male,Married,4,Termination,5/28/2023,Restructuring,591.875
+Software Developer,Network Operations,33,Male,Married,2,Resignation,4/23/2023,Career growth,418.0833333
+Product Manager,Billing,24,Male,Single,3,Resignation,6/12/2024,Restructuring,336.125
+Sales Executive,Field Operations,22,Female,Married,2,Resignation,3/17/2023,Better opportunity,494.25
+Network Engineer,Field Operations,56,Female,Married,8,Termination,8/3/2023,Personal reasons,254.5
+Network Engineer,Human Resources,60,Male,Single,7,Retirement,8/24/2023,Personal reasons,296.25
+Network Engineer,IT & Software,30,Female,Married,4,Resignation,10/17/2023,Restructuring,349.2916667
+Network Engineer,Billing,33,Male,Married,2,Resignation,5/18/2024,End of service,659.5
+Customer Support Agent,Network Operations,55,Male,Single,7,Resignation,3/18/2023,Policy violation,393.0833333
+HR Specialist,Sales & Marketing,43,Female,Married,10,Termination,7/9/2023,Restructuring,328.9166667
+HR Specialist,Human Resources,60,Female,Married,9,Retirement,12/28/2023,Better opportunity,447.4166667
+IT Support Engineer,Billing,28,Male,Single,7,Termination,12/13/2024,Better opportunity,294.75
+Telecom Technician,Data Analytics,60,Male,Single,2,Retirement,9/11/2024,Better opportunity,342.625
+Marketing Analyst,Human Resources,45,Male,Single,1,Resignation,2/15/2024,Policy violation,360.1666667
+Sales Executive,Customer Service,27,Female,Single,3,Termination,12/14/2024,Work-life balance,279.375
+Telecom Technician,Project Management,34,Female,Married,4,Resignation,9/25/2023,Policy violation,529.9166667
+Product Manager,Customer Service,23,Male,Married,2,Resignation,8/22/2024,End of service,713.7916667
+Sales Executive,Field Operations,37,Female,Single,2,Termination,4/16/2023,Work-life balance,139.6666667
+HR Specialist,Field Operations,27,Male,Married,2,Termination,11/9/2023,End of service,362.0416667
+IT Support Engineer,Data Analytics,26,Female,Single,9,Resignation,5/10/2023,Personal reasons,127.0416667
+Sales Executive,Field Operations,46,Female,Married,8,Resignation,8/27/2024,Work-life balance,383.5
+Sales Executive,Human Resources,55,Female,Married,4,Termination,3/30/2023,Pursuing education,491.75
+Telecom Technician,IT & Software,46,Female,Married,8,Termination,1/12/2025,Restructuring,475.7916667
+Telecom Technician,Data Analytics,45,Female,Married,4,Termination,9/25/2024,Pursuing education,339.4166667
+Customer Support Agent,Project Management,32,Male,Single,4,Termination,5/10/2023,Better opportunity,306.3333333
+Data Scientist,Human Resources,53,Male,Married,10,Resignation,2/13/2024,Better opportunity,291.3333333
+Network Engineer,Sales & Marketing,30,Female,Single,2,Termination,6/28/2024,Career growth,220.1666667
+Billing Specialist,Billing,39,Male,Single,2,Resignation,11/15/2024,Career growth,202.0833333
+Network Engineer,Project Management,45,Female,Single,4,Termination,4/17/2024,Career growth,424.5833333
+Software Developer,Sales & Marketing,60,Female,Married,6,Retirement,11/11/2023,Personal reasons,325.5416667
+IT Support Engineer,Billing,30,Male,Married,5,Resignation,9/6/2023,Restructuring,296.75
+Customer Support Agent,Field Operations,41,Female,Married,3,Resignation,12/15/2024,Work-life balance,308.1666667
+HR Specialist,Project Management,39,Female,Married,2,Termination,6/6/2023,Performance issues,347.375
+Software Developer,Field Operations,47,Male,Married,2,Resignation,3/14/2023,Performance issues,575.7916667
+Software Developer,Project Management,45,Male,Single,4,Termination,5/6/2024,Work-life balance,310.875
+Telecom Technician,Human Resources,47,Female,Married,7,Resignation,8/5/2023,End of service,316.8333333
+Marketing Analyst,Network Operations,23,Female,Single,2,Resignation,6/4/2024,Policy violation,375.5416667
+Billing Specialist,Field Operations,59,Female,Single,10,Resignation,7/24/2023,Policy violation,231.5416667
+Software Developer,Data Analytics,29,Male,Married,2,Termination,8/13/2024,Pursuing education,174.25
+Data Scientist,Human Resources,42,Female,Married,1,Termination,7/7/2024,Work-life balance,495.4166667
+Product Manager,Field Operations,60,Female,Single,3,Retirement,7/20/2024,Personal reasons,185.0416667
+Sales Executive,Field Operations,32,Male,Single,2,Termination,10/25/2023,Pursuing education,308.5
+Billing Specialist,Data Analytics,60,Female,Single,1,Retirement,8/31/2024,Personal reasons,389.8333333
+Project Manager,Customer Service,39,Male,Married,5,Termination,4/12/2023,End of service,186.7916667
+Product Manager,Network Operations,39,Male,Single,10,Resignation,3/10/2024,Better opportunity,327.2916667
+Data Scientist,Data Analytics,57,Male,Single,2,Termination,4/28/2024,Policy violation,516.0416667
+Software Developer,Billing,32,Male,Single,2,Resignation,4/25/2023,Better opportunity,411.3333333
+Billing Specialist,Billing,24,Male,Single,10,Termination,6/25/2024,End of service,204.1666667
+Product Manager,Customer Service,31,Female,Single,10,Resignation,4/4/2024,Performance issues,335.5833333
+Customer Support Agent,Project Management,60,Female,Married,6,Termination,5/27/2024,Better opportunity,335.5416667
+Marketing Analyst,Project Management,39,Male,Married,2,Termination,3/22/2023,Pursuing education,433.625
+Billing Specialist,IT & Software,38,Male,Married,7,Resignation,10/21/2024,Work-life balance,257.3333333
+Software Developer,Customer Service,60,Female,Single,5,Retirement,4/4/2023,Pursuing education,207.8333333
+Marketing Analyst,Field Operations,60,Female,Single,4,Retirement,12/16/2024,Policy violation,301.1666667
+Product Manager,IT & Software,58,Male,Single,2,Resignation,4/5/2023,Restructuring,311.4166667
+Project Manager,Project Management,60,Male,Married,7,Retirement,11/12/2023,Career growth,401.0416667
+Network Engineer,Customer Service,55,Female,Single,2,Resignation,10/20/2023,Performance issues,596.625
+Marketing Analyst,Human Resources,47,Male,Married,4,Termination,4/23/2023,Restructuring,371.1666667
+HR Specialist,IT & Software,55,Male,Single,4,Resignation,2/11/2024,End of service,456.6666667
+Marketing Analyst,Network Operations,60,Female,Married,5,Retirement,10/24/2023,Personal reasons,474.4166667
+Project Manager,Data Analytics,26,Male,Married,7,Resignation,1/17/2024,Performance issues,436.1666667
+Billing Specialist,IT & Software,51,Male,Single,6,Resignation,11/16/2023,Policy violation,354.25
+Data Scientist,IT & Software,35,Female,Single,4,Termination,6/9/2023,Work-life balance,449.5
+Project Manager,Sales & Marketing,34,Male,Married,10,Resignation,6/12/2024,Policy violation,265.5833333
+Customer Support Agent,Project Management,26,Male,Married,2,Termination,4/3/2023,Pursuing education,248.7916667
+HR Specialist,Billing,31,Male,Married,4,Termination,2/1/2024,Work-life balance,173.5
+Marketing Analyst,IT & Software,60,Male,Married,3,Retirement,1/26/2024,Career growth,607.3333333
+Sales Executive,Customer Service,52,Male,Single,8,Resignation,3/14/2024,Career growth,285.6666667
+Telecom Technician,Customer Service,58,Male,Married,7,Resignation,7/23/2024,Personal reasons,520.875
+Project Manager,IT & Software,29,Male,Married,7,Resignation,9/12/2023,Performance issues,368.9166667
+Billing Specialist,Human Resources,40,Male,Married,4,Termination,8/4/2023,Restructuring,375.5416667
+Product Manager,Human Resources,51,Male,Married,2,Resignation,1/29/2025,Policy violation,173.875
+IT Support Engineer,Sales & Marketing,60,Male,Married,2,Retirement,6/11/2024,Restructuring,278.125
+Project Manager,Sales & Marketing,41,Male,Married,2,Resignation,6/16/2023,Better opportunity,277.8333333
+Project Manager,Field Operations,46,Male,Single,8,Resignation,1/17/2025,Better opportunity,455.875
+Sales Executive,IT & Software,60,Male,Single,6,Retirement,11/1/2024,Better opportunity,203.1666667
+Customer Support Agent,Data Analytics,32,Female,Married,7,Resignation,9/25/2024,End of service,201
+Network Engineer,Human Resources,53,Female,Single,10,Termination,11/23/2024,End of service,344.0416667
+Product Manager,Customer Service,60,Female,Married,4,Retirement,7/28/2024,End of service,426.4166667
+Software Developer,Sales & Marketing,60,Male,Married,2,Retirement,5/20/2024,Work-life balance,348.5416667
+Billing Specialist,Billing,22,Male,Married,7,Termination,1/4/2024,Better opportunity,255.4166667
+Product Manager,Human Resources,56,Male,Single,3,Termination,5/17/2023,Career growth,276.1666667
+Sales Executive,IT & Software,60,Female,Married,2,Retirement,4/19/2023,Policy violation,376.75
+Data Scientist,Project Management,23,Male,Single,7,Resignation,12/25/2024,Policy violation,415.7916667
+Software Developer,Customer Service,39,Male,Married,7,Resignation,4/12/2024,End of service,204.3333333
+Data Scientist,Customer Service,47,Male,Married,6,Termination,6/16/2023,Performance issues,469.5833333
+Billing Specialist,Sales & Marketing,47,Female,Married,10,Resignation,12/31/2023,Restructuring,346.2916667
+Project Manager,Data Analytics,60,Female,Single,4,Retirement,3/5/2024,Pursuing education,176.25
+Customer Support Agent,Field Operations,60,Male,Single,7,Retirement,3/2/2024,Policy violation,224.1666667
+Sales Executive,Billing,27,Female,Single,4,Termination,2/12/2024,End of service,285
+IT Support Engineer,Data Analytics,26,Female,Single,7,Termination,6/17/2023,Performance issues,197
+Billing Specialist,Field Operations,53,Female,Married,5,Resignation,5/7/2023,Pursuing education,302.8333333
+Sales Executive,IT & Software,23,Male,Single,9,Resignation,4/29/2023,Better opportunity,177.1666667
+IT Support Engineer,Customer Service,60,Male,Single,2,Retirement,8/6/2023,Restructuring,546.625
+HR Specialist,Sales & Marketing,48,Female,Married,3,Resignation,10/22/2023,End of service,325.1666667
+IT Support Engineer,Customer Service,53,Male,Single,4,Termination,12/18/2024,Career growth,444.6666667
+Telecom Technician,IT & Software,60,Female,Married,2,Retirement,7/17/2024,Career growth,433.7916667
+Network Engineer,Billing,60,Male,Married,5,Retirement,7/26/2023,Performance issues,597.0416667
+Product Manager,Field Operations,29,Female,Married,7,Resignation,12/20/2023,Pursuing education,136.0416667
+Project Manager,Field Operations,43,Male,Married,4,Resignation,8/7/2023,Personal reasons,607.2916667
+Project Manager,Human Resources,28,Female,Married,9,Resignation,5/15/2023,Policy violation,498.2916667
+Product Manager,IT & Software,55,Male,Single,7,Resignation,11/23/2023,Personal reasons,368.25
+Telecom Technician,Data Analytics,50,Female,Married,2,Resignation,3/3/2024,Pursuing education,314.8333333
+IT Support Engineer,Data Analytics,37,Male,Single,4,Resignation,5/15/2024,Personal reasons,167.25
+Billing Specialist,Customer Service,58,Male,Married,2,Termination,2/14/2024,Better opportunity,303.75
+Project Manager,Customer Service,47,Male,Married,1,Resignation,2/14/2024,Better opportunity,303.125
+Product Manager,Customer Service,60,Female,Married,2,Retirement,10/31/2023,End of service,316.25
+Product Manager,IT & Software,48,Male,Married,9,Resignation,2/4/2024,Better opportunity,228.5416667
+Telecom Technician,Human Resources,57,Female,Single,9,Resignation,9/25/2024,Policy violation,333.5833333
+Customer Support Agent,Customer Service,39,Female,Married,8,Resignation,5/25/2023,Performance issues,327.5833333
+Software Developer,Sales & Marketing,53,Female,Single,7,Resignation,5/8/2023,End of service,232.3333333
+IT Support Engineer,Human Resources,30,Female,Married,4,Resignation,8/11/2023,Personal reasons,376.0416667
+HR Specialist,Human Resources,37,Female,Single,2,Termination,4/13/2023,Better opportunity,348.8333333
+HR Specialist,Sales & Marketing,60,Male,Married,8,Retirement,6/21/2024,Better opportunity,377.5833333
+Project Manager,Billing,60,Female,Single,5,Retirement,5/8/2023,Personal reasons,170.7916667
+HR Specialist,Human Resources,60,Female,Married,2,Retirement,3/20/2024,Work-life balance,309.25
+Data Scientist,Data Analytics,60,Female,Single,4,Retirement,12/7/2024,Policy violation,205
+HR Specialist,Data Analytics,33,Male,Single,2,Resignation,8/26/2024,Restructuring,477.8333333
+Marketing Analyst,Human Resources,31,Female,Single,2,Resignation,12/22/2024,Better opportunity,390.5416667
+HR Specialist,Billing,60,Female,Married,2,Retirement,3/16/2024,Policy violation,318.3333333
+IT Support Engineer,Data Analytics,54,Male,Married,6,Resignation,9/5/2023,Pursuing education,168.1666667
+Marketing Analyst,IT & Software,22,Male,Married,2,Termination,6/21/2024,Better opportunity,592.8333333
+Telecom Technician,Project Management,44,Male,Single,7,Termination,10/9/2024,Restructuring,325.5833333
+Software Developer,Project Management,45,Female,Single,2,Termination,6/13/2024,Pursuing education,589.5833333
+IT Support Engineer,Sales & Marketing,27,Male,Single,4,Termination,9/4/2023,Personal reasons,360.8333333
+HR Specialist,IT & Software,31,Male,Married,7,Termination,10/23/2023,Work-life balance,283.5833333
+IT Support Engineer,Billing,56,Female,Single,7,Resignation,6/2/2023,Work-life balance,222.7916667
+Network Engineer,IT & Software,58,Female,Single,7,Termination,8/22/2023,Restructuring,222.0416667
+Marketing Analyst,Sales & Marketing,59,Female,Married,4,Termination,3/27/2023,Work-life balance,424.8333333
+IT Support Engineer,Project Management,40,Male,Single,4,Resignation,12/9/2024,Pursuing education,310.125
+Network Engineer,Customer Service,60,Female,Single,7,Retirement,7/7/2024,Restructuring,631.1666667
+Customer Support Agent,Project Management,57,Female,Married,6,Resignation,4/27/2023,Better opportunity,149.5
+Sales Executive,Human Resources,29,Female,Married,1,Resignation,2/27/2024,Better opportunity,482.1666667
+HR Specialist,Data Analytics,54,Female,Married,2,Resignation,5/18/2023,Better opportunity,305.0416667
+Marketing Analyst,Project Management,42,Female,Single,1,Resignation,10/26/2023,Policy violation,445.875
+HR Specialist,Network Operations,60,Male,Married,2,Retirement,11/9/2023,Policy violation,164.5833333
+Network Engineer,Sales & Marketing,60,Male,Married,1,Retirement,7/14/2024,Restructuring,620.25
+Telecom Technician,Human Resources,60,Male,Single,6,Retirement,12/19/2024,Policy violation,594.25
+Product Manager,Network Operations,60,Female,Married,1,Retirement,5/8/2024,Pursuing education,454.125
+Sales Executive,Network Operations,60,Female,Married,7,Retirement,11/11/2024,Better opportunity,191.5
+Project Manager,Field Operations,27,Female,Single,6,Termination,5/25/2024,End of service,298.4166667
+HR Specialist,Billing,33,Female,Married,2,Resignation,6/14/2023,Personal reasons,328.6666667
+Data Scientist,Network Operations,60,Male,Single,7,Retirement,9/10/2023,Pursuing education,423.1666667
+Software Developer,Network Operations,44,Male,Married,1,Termination,11/10/2024,Career growth,241.0833333
+IT Support Engineer,Network Operations,24,Male,Married,7,Resignation,10/9/2024,Career growth,373.0833333
+IT Support Engineer,Billing,41,Female,Married,4,Termination,10/30/2023,Policy violation,596.3333333
+Marketing Analyst,Billing,60,Male,Single,4,Retirement,9/16/2023,Performance issues,298.5416667
+IT Support Engineer,Billing,46,Male,Single,3,Termination,7/12/2023,Policy violation,335.125
+Data Scientist,Billing,34,Female,Married,4,Resignation,9/30/2024,End of service,239.4166667
+Customer Support Agent,Billing,31,Male,Married,4,Resignation,6/22/2024,Restructuring,571.9166667
+Network Engineer,IT & Software,26,Male,Single,7,Termination,4/11/2024,Policy violation,345.0833333
+Billing Specialist,Billing,40,Female,Married,10,Termination,10/12/2024,Performance issues,209.7916667
+HR Specialist,Sales & Marketing,46,Female,Single,5,Resignation,5/27/2024,Policy violation,271.9166667
+Software Developer,Human Resources,60,Female,Single,4,Termination,11/4/2024,End of service,715.7916667
+Sales Executive,Human Resources,33,Male,Married,7,Resignation,12/10/2024,Better opportunity,315.9166667
+Customer Support Agent,Customer Service,38,Male,Married,10,Resignation,11/5/2023,Restructuring,285.9166667
+Customer Support Agent,Field Operations,60,Male,Single,6,Retirement,8/30/2024,Personal reasons,390.25
+Sales Executive,Human Resources,41,Male,Single,7,Resignation,6/3/2023,Performance issues,380
+Software Developer,Billing,60,Male,Married,4,Retirement,11/20/2024,Career growth,170.625
+Network Engineer,Data Analytics,52,Female,Single,9,Termination,5/3/2024,Policy violation,292.6666667
+Network Engineer,Billing,60,Male,Married,4,Retirement,1/23/2025,Career growth,327.4166667
+Billing Specialist,Project Management,38,Male,Married,2,Resignation,1/30/2025,Restructuring,261.6666667
+HR Specialist,Billing,52,Female,Single,4,Resignation,6/16/2023,Work-life balance,417
+Sales Executive,Project Management,39,Male,Married,2,Termination,8/28/2024,Policy violation,460.875
+Sales Executive,Customer Service,57,Male,Married,3,Resignation,4/28/2024,Pursuing education,255.75
+HR Specialist,Billing,48,Male,Married,4,Termination,6/8/2023,Policy violation,197.5416667
+Customer Support Agent,Project Management,23,Female,Single,7,Termination,11/24/2023,Pursuing education,172.6666667
+Product Manager,Project Management,26,Female,Single,3,Resignation,6/8/2024,Work-life balance,354.7916667
+HR Specialist,IT & Software,46,Male,Married,10,Termination,1/7/2025,Personal reasons,426
+Marketing Analyst,Data Analytics,60,Female,Married,4,Retirement,8/5/2024,Performance issues,328.625
+Network Engineer,IT & Software,60,Male,Married,4,Retirement,12/8/2024,Work-life balance,347.25
+Data Scientist,Sales & Marketing,60,Male,Single,1,Retirement,7/23/2023,Work-life balance,170.5416667
+Data Scientist,Customer Service,60,Female,Single,4,Retirement,8/24/2023,Performance issues,226.125
+Software Developer,Customer Service,60,Male,Single,6,Retirement,3/5/2024,Career growth,306.2916667
+Project Manager,IT & Software,40,Female,Single,7,Termination,3/26/2023,Work-life balance,358.625
+Telecom Technician,Customer Service,60,Male,Married,7,Retirement,4/10/2023,Better opportunity,474.875
+Network Engineer,IT & Software,60,Male,Married,8,Resignation,5/14/2023,End of service,510.75
+Software Developer,Network Operations,58,Female,Single,7,Termination,8/10/2024,Work-life balance,156.2916667
+Sales Executive,IT & Software,36,Male,Single,5,Resignation,12/19/2024,Policy violation,158.0416667
+HR Specialist,Human Resources,32,Male,Single,7,Termination,10/20/2024,Work-life balance,395.625
+HR Specialist,Customer Service,38,Female,Single,7,Termination,1/17/2025,End of service,390.375
+HR Specialist,Customer Service,60,Female,Single,6,Retirement,5/24/2024,Personal reasons,568.8333333
+HR Specialist,Project Management,59,Female,Single,9,Resignation,8/1/2024,Policy violation,305.2916667
+Network Engineer,Data Analytics,60,Female,Single,4,Retirement,9/1/2023,Pursuing education,405.5
+HR Specialist,Sales & Marketing,41,Male,Married,10,Resignation,8/23/2023,Policy violation,257.75
+Marketing Analyst,Field Operations,60,Female,Single,4,Retirement,8/1/2023,Performance issues,306.6666667
+Customer Support Agent,Human Resources,52,Female,Single,3,Resignation,2/12/2024,End of service,222
+Project Manager,Customer Service,55,Female,Single,7,Resignation,8/5/2023,Career growth,177.625
+IT Support Engineer,IT & Software,60,Male,Single,7,Retirement,6/7/2024,Better opportunity,325.2916667
+Project Manager,Project Management,60,Female,Married,4,Retirement,4/16/2024,Pursuing education,309.5416667
+Product Manager,Field Operations,55,Male,Married,4,Termination,6/24/2023,End of service,489.4166667
+Billing Specialist,Network Operations,53,Female,Married,7,Termination,8/25/2024,Policy violation,376.2916667
+Customer Support Agent,Data Analytics,49,Female,Single,6,Termination,10/16/2023,Work-life balance,493.5416667
+Telecom Technician,IT & Software,38,Male,Single,7,Resignation,12/26/2023,Personal reasons,538.9166667
+Customer Support Agent,Network Operations,23,Female,Married,6,Resignation,4/25/2023,Better opportunity,384.4166667
+Network Engineer,Network Operations,30,Male,Married,6,Resignation,10/18/2024,Restructuring,149.125
+Project Manager,Network Operations,60,Female,Married,4,Retirement,12/5/2024,End of service,351
+Telecom Technician,Sales & Marketing,56,Female,Single,1,Resignation,2/9/2024,Performance issues,193.2916667
+Billing Specialist,Project Management,60,Female,Single,2,Retirement,1/24/2025,Personal reasons,144.1666667
+Project Manager,Customer Service,59,Female,Married,2,Resignation,10/9/2023,Personal reasons,231.9166667
+Customer Support Agent,Sales & Marketing,60,Female,Single,4,Retirement,4/28/2023,Policy violation,411.4166667
+IT Support Engineer,IT & Software,49,Male,Married,2,Termination,4/29/2024,Pursuing education,616.0833333
+Telecom Technician,IT & Software,55,Female,Single,7,Resignation,9/6/2024,Pursuing education,367.625
+Billing Specialist,Network Operations,60,Male,Single,7,Retirement,10/19/2023,Work-life balance,338.3333333
+Project Manager,IT & Software,55,Female,Single,4,Resignation,7/25/2023,Career growth,399.125
+Sales Executive,Field Operations,60,Male,Single,6,Retirement,10/6/2024,Restructuring,354.1666667
+Marketing Analyst,Data Analytics,23,Female,Married,4,Resignation,5/2/2024,Pursuing education,317.1666667
+Marketing Analyst,Field Operations,46,Male,Married,6,Termination,1/11/2024,Pursuing education,595.3333333
+Sales Executive,Data Analytics,35,Male,Single,2,Resignation,6/23/2023,Work-life balance,247
+Product Manager,Human Resources,32,Male,Married,9,Resignation,1/10/2025,Policy violation,271.625
+Network Engineer,Field Operations,60,Male,Single,2,Retirement,10/5/2024,Restructuring,704.5833333
+Customer Support Agent,Field Operations,30,Female,Single,1,Resignation,9/16/2023,Pursuing education,271.6666667
+HR Specialist,Billing,42,Male,Single,2,Termination,8/14/2023,End of service,299.125
+Data Scientist,Customer Service,25,Female,Married,5,Resignation,1/4/2025,End of service,162.875
+Telecom Technician,Data Analytics,34,Female,Single,6,Resignation,3/16/2023,Better opportunity,642.4166667
+Sales Executive,Field Operations,60,Female,Single,7,Retirement,7/7/2023,Policy violation,356.0416667
+Marketing Analyst,Data Analytics,58,Male,Married,5,Termination,11/8/2023,Better opportunity,529.25
+Telecom Technician,Sales & Marketing,55,Male,Single,4,Termination,1/20/2025,Pursuing education,434.8333333
+Project Manager,Human Resources,60,Male,Married,7,Retirement,12/19/2024,Restructuring,297.5416667
+Network Engineer,Field Operations,60,Male,Single,2,Retirement,9/7/2023,Pursuing education,356.75
+Data Scientist,Network Operations,60,Female,Single,9,Retirement,9/9/2023,Career growth,434.5416667
+Project Manager,Human Resources,49,Female,Single,4,Resignation,7/5/2023,Personal reasons,647.375
+HR Specialist,IT & Software,60,Female,Single,7,Retirement,2/26/2024,Career growth,418.6666667
+Sales Executive,Project Management,60,Male,Single,7,Retirement,12/22/2024,Better opportunity,296.6666667
+Marketing Analyst,Project Management,60,Male,Single,7,Retirement,4/26/2023,Career growth,160.8333333
+Product Manager,Billing,60,Female,Married,7,Retirement,11/20/2024,Career growth,500.3333333
+Telecom Technician,Field Operations,55,Female,Single,2,Resignation,9/9/2024,Performance issues,138.1666667
+Telecom Technician,Customer Service,60,Female,Married,6,Retirement,2/1/2024,Career growth,391.0416667
+Telecom Technician,Billing,46,Female,Married,7,Termination,3/28/2024,Restructuring,184.25
+HR Specialist,Human Resources,26,Male,Single,2,Resignation,8/27/2023,Restructuring,389.875
+IT Support Engineer,Sales & Marketing,60,Male,Married,10,Retirement,9/19/2024,End of service,494.0416667
+Marketing Analyst,Network Operations,54,Female,Married,5,Resignation,5/10/2024,Personal reasons,399.875
+Billing Specialist,Network Operations,60,Female,Single,9,Retirement,4/4/2023,Policy violation,374.8333333
+Billing Specialist,Human Resources,60,Female,Married,4,Retirement,3/21/2023,End of service,388.6666667
+Billing Specialist,Field Operations,60,Female,Married,9,Retirement,2/29/2024,Personal reasons,459.1666667
+Marketing Analyst,Human Resources,40,Male,Single,7,Resignation,5/9/2023,Restructuring,166.2916667
+Product Manager,Billing,29,Female,Single,9,Termination,10/5/2024,Career growth,648
+IT Support Engineer,IT & Software,59,Male,Single,2,Resignation,7/22/2023,Performance issues,409
+Customer Support Agent,Project Management,60,Female,Single,2,Retirement,5/29/2023,Career growth,211.9166667
+Customer Support Agent,Customer Service,54,Female,Single,7,Termination,6/20/2024,Restructuring,160.9166667
+HR Specialist,Data Analytics,60,Female,Married,7,Retirement,10/7/2024,Career growth,298.25
+Billing Specialist,Human Resources,40,Female,Married,2,Termination,1/11/2024,End of service,299.5
+Billing Specialist,Project Management,54,Female,Married,2,Termination,3/15/2023,End of service,377.7916667
+Software Developer,Project Management,60,Male,Single,2,Retirement,6/8/2024,Pursuing education,179.4166667
+Project Manager,Network Operations,60,Female,Single,9,Retirement,1/11/2025,Work-life balance,239
+Data Scientist,Network Operations,58,Male,Married,4,Resignation,1/24/2025,End of service,517.125
+Data Scientist,Field Operations,43,Male,Single,10,Resignation,9/27/2023,Career growth,185.5416667
+Marketing Analyst,Customer Service,39,Female,Married,2,Resignation,3/15/2023,Career growth,379.5416667
+Customer Support Agent,Project Management,60,Male,Married,7,Retirement,2/1/2024,Career growth,282.5416667
+Network Engineer,Data Analytics,60,Female,Single,4,Retirement,6/17/2024,End of service,437.3333333
+IT Support Engineer,IT & Software,58,Male,Married,7,Resignation,8/27/2023,Work-life balance,468.875
+IT Support Engineer,Customer Service,51,Female,Married,2,Termination,1/27/2025,Work-life balance,395.5
+Sales Executive,Project Management,60,Female,Married,2,Retirement,2/13/2024,Work-life balance,218.9166667
+Data Scientist,IT & Software,26,Female,Married,9,Resignation,1/6/2024,Career growth,126.5416667
+Project Manager,IT & Software,43,Female,Single,7,Termination,5/21/2024,End of service,369.0416667
+Product Manager,Customer Service,26,Male,Married,6,Termination,6/19/2024,Pursuing education,163.0416667
+Network Engineer,Customer Service,39,Female,Married,4,Resignation,8/25/2023,Better opportunity,359.625
+Network Engineer,Field Operations,25,Male,Married,4,Termination,10/21/2024,Restructuring,304.7916667
+Network Engineer,Billing,32,Female,Single,5,Resignation,7/9/2024,Personal reasons,531.4166667
+HR Specialist,Field Operations,43,Male,Married,1,Resignation,6/25/2024,Performance issues,472.125
+Telecom Technician,Field Operations,60,Male,Single,1,Retirement,1/17/2025,Performance issues,596.8333333
+Product Manager,Project Management,60,Female,Single,6,Retirement,4/11/2023,Restructuring,361.875
+Billing Specialist,Customer Service,34,Female,Single,4,Termination,11/11/2024,Work-life balance,362.5416667
+Product Manager,Data Analytics,48,Female,Single,2,Resignation,7/25/2024,Policy violation,132.9166667
+Telecom Technician,Customer Service,28,Female,Single,2,Resignation,11/16/2023,End of service,339.25
+Project Manager,Sales & Marketing,60,Male,Married,7,Retirement,4/18/2023,End of service,284.8333333
+Project Manager,Human Resources,38,Female,Single,1,Resignation,8/4/2023,Pursuing education,298.3333333
+Data Scientist,Project Management,36,Male,Single,9,Termination,6/13/2023,Restructuring,179.25
+Sales Executive,Field Operations,60,Female,Married,8,Retirement,12/30/2024,Work-life balance,507.0833333
+Telecom Technician,Sales & Marketing,28,Female,Single,4,Resignation,12/13/2023,End of service,408.5416667
+Telecom Technician,Field Operations,30,Male,Married,6,Termination,4/22/2024,Better opportunity,377.9166667
+Product Manager,Sales & Marketing,60,Male,Single,2,Retirement,10/26/2023,Pursuing education,402.1666667
+Sales Executive,Human Resources,60,Male,Single,4,Retirement,3/30/2024,End of service,427.75
+Product Manager,Customer Service,60,Female,Single,4,Retirement,5/17/2024,Policy violation,228.7916667
+Telecom Technician,Billing,60,Female,Single,1,Retirement,12/22/2024,Restructuring,403.9166667
+Software Developer,Data Analytics,58,Male,Single,1,Termination,4/28/2024,Better opportunity,211.9166667
+Software Developer,Project Management,60,Male,Single,2,Retirement,10/29/2023,Personal reasons,170.4166667
+Telecom Technician,Human Resources,47,Female,Married,7,Resignation,9/29/2023,Personal reasons,248.4166667
+HR Specialist,IT & Software,25,Female,Married,7,Resignation,8/29/2023,Career growth,196.5833333
+Sales Executive,Data Analytics,52,Male,Single,4,Resignation,10/31/2023,End of service,461
+Project Manager,Billing,48,Male,Single,8,Termination,2/15/2024,Personal reasons,382.5833333
+Data Scientist,IT & Software,35,Male,Single,7,Resignation,8/17/2022,End of service,425.375
+Data Scientist,Sales & Marketing,38,Female,Single,9,Termination,10/8/2022,Restructuring,343.1666667
+Data Scientist,Human Resources,60,Female,Married,1,Retirement,11/21/2023,Career growth,440.6666667
+Telecom Technician,Data Analytics,48,Female,Single,4,Resignation,10/13/2023,End of service,247.9166667
+Sales Executive,Human Resources,34,Male,Married,4,Termination,12/29/2024,Work-life balance,222.0833333
+Network Engineer,Billing,32,Male,Single,7,Resignation,11/20/2023,Career growth,228.1666667
+Project Manager,Human Resources,40,Female,Single,4,Resignation,7/23/2023,Performance issues,273.9166667
+IT Support Engineer,Network Operations,50,Female,Single,2,Resignation,10/23/2023,Restructuring,141.9166667
+Marketing Analyst,Network Operations,25,Female,Single,10,Resignation,7/17/2024,Personal reasons,126.5416667
+Telecom Technician,Sales & Marketing,60,Female,Married,4,Retirement,7/29/2023,Performance issues,132.75
+Marketing Analyst,Sales & Marketing,46,Female,Single,7,Resignation,12/20/2023,Personal reasons,241.625
+Data Scientist,Field Operations,52,Female,Married,8,Resignation,9/13/2024,Career growth,392
+HR Specialist,Data Analytics,31,Female,Married,2,Resignation,8/15/2024,Policy violation,351.7916667
+Software Developer,Data Analytics,30,Female,Single,2,Resignation,1/26/2025,Personal reasons,173.7916667
+Network Engineer,Human Resources,49,Male,Single,5,Termination,9/21/2023,Performance issues,351.75
+Customer Support Agent,Field Operations,30,Male,Single,10,Resignation,3/27/2023,Policy violation,289.25
+Sales Executive,Sales & Marketing,35,Female,Married,2,Resignation,8/11/2024,Policy violation,715.1666667
+HR Specialist,Human Resources,30,Male,Married,4,Resignation,8/8/2024,Performance issues,631.4166667
+Software Developer,Data Analytics,37,Female,Married,2,Termination,12/2/2024,Work-life balance,424.5833333
+HR Specialist,IT & Software,39,Female,Married,4,Termination,6/13/2024,Restructuring,379.7916667
+Data Scientist,Project Management,60,Male,Single,1,Retirement,5/10/2023,Better opportunity,425.5
+Software Developer,Sales & Marketing,60,Male,Single,1,Retirement,8/22/2023,Performance issues,147.5
+Sales Executive,Data Analytics,60,Female,Married,9,Retirement,5/29/2022,Career growth,445
+Data Scientist,Sales & Marketing,34,Female,Married,2,Termination,9/12/2022,Pursuing education,194.9166667
+Sales Executive,IT & Software,60,Female,Married,7,Retirement,12/7/2022,Career growth,237.125
+Project Manager,Project Management,60,Male,Married,3,Retirement,8/25/2022,Restructuring,659.0416667
+Network Engineer,Network Operations,36,Female,Single,7,Termination,6/22/2023,Personal reasons,168.7916667
+Marketing Analyst,Billing,57,Male,Single,4,Resignation,11/6/2024,Work-life balance,502.875
+Billing Specialist,Data Analytics,29,Female,Married,4,Termination,7/11/2024,Performance issues,164.25
+Billing Specialist,Customer Service,60,Male,Married,7,Retirement,4/20/2023,Performance issues,301.875
+HR Specialist,Network Operations,43,Male,Married,2,Termination,7/16/2023,Career growth,525.5
+IT Support Engineer,Project Management,28,Male,Single,4,Termination,1/9/2022,End of service,274.3333333
+Data Scientist,Sales & Marketing,37,Female,Single,4,Resignation,8/19/2022,Better opportunity,327.3333333
+Product Manager,IT & Software,42,Male,Single,5,Termination,4/18/2022,Policy violation,493.25
+HR Specialist,IT & Software,32,Male,Married,2,Termination,11/30/2022,Pursuing education,346.0416667
+Software Developer,Project Management,26,Female,Single,2,Resignation,1/19/2025,End of service,156.125
+Software Developer,Project Management,50,Female,Married,2,Resignation,12/13/2024,Policy violation,331.3333333
+Network Engineer,Project Management,60,Female,Single,10,Retirement,10/18/2023,Performance issues,461.5
+Customer Support Agent,Sales & Marketing,49,Female,Single,4,Resignation,6/23/2023,End of service,276.0416667
+Telecom Technician,Network Operations,60,Female,Married,2,Retirement,11/21/2024,Personal reasons,380.9166667
+HR Specialist,Human Resources,60,Male,Married,4,Retirement,5/14/2023,Restructuring,308.5833333
+Project Manager,Field Operations,60,Female,Single,2,Retirement,2/27/2024,Performance issues,344.375
+Billing Specialist,IT & Software,34,Female,Married,7,Termination,4/1/2023,Career growth,196.5416667
+Project Manager,Customer Service,45,Female,Single,2,Termination,3/21/2023,Work-life balance,427.2916667
+Sales Executive,Sales & Marketing,34,Female,Married,7,Resignation,10/16/2023,Work-life balance,158.3333333
+Customer Support Agent,IT & Software,49,Female,Single,7,Termination,3/17/2023,End of service,521.5833333
+Telecom Technician,Human Resources,59,Female,Single,10,Termination,5/28/2023,Restructuring,347.2916667
+Telecom Technician,Sales & Marketing,49,Female,Single,4,Termination,2/27/2024,Pursuing education,464.125
+Customer Support Agent,IT & Software,52,Male,Married,5,Termination,4/24/2024,Pursuing education,248.1666667
+HR Specialist,Network Operations,60,Male,Single,6,Retirement,11/1/2023,Restructuring,676.0833333
+Customer Support Agent,Field Operations,60,Female,Single,4,Retirement,8/30/2024,End of service,252.125
+Billing Specialist,Customer Service,30,Female,Married,5,Termination,2/9/2025,Policy violation,272
+Telecom Technician,Customer Service,60,Female,Married,2,Retirement,7/10/2023,Personal reasons,438.3333333
+Billing Specialist,Human Resources,43,Male,Single,8,Resignation,5/20/2024,Restructuring,517.125
+Software Developer,Data Analytics,59,Male,Married,7,Resignation,7/12/2024,End of service,348.0416667
+Marketing Analyst,Sales & Marketing,41,Male,Married,7,Termination,4/29/2024,Pursuing education,229.0416667
+Marketing Analyst,Sales & Marketing,60,Female,Single,2,Retirement,9/25/2023,Career growth,292.5416667
+Marketing Analyst,Customer Service,50,Male,Single,6,Resignation,5/11/2023,Work-life balance,346.625
+Data Scientist,Field Operations,47,Male,Married,10,Termination,11/24/2024,End of service,220.7916667
+HR Specialist,Customer Service,60,Female,Single,2,Retirement,10/24/2023,Better opportunity,333.1666667
+Software Developer,Human Resources,60,Female,Single,5,Retirement,9/12/2024,Career growth,249.5416667
+Billing Specialist,Sales & Marketing,26,Male,Married,2,Resignation,9/12/2023,Policy violation,385.4166667
+Software Developer,Customer Service,60,Male,Single,4,Retirement,5/26/2024,Policy violation,140.4166667
+Data Scientist,Billing,42,Male,Single,2,Termination,5/23/2023,Personal reasons,328.9166667
+Product Manager,Network Operations,40,Male,Married,2,Resignation,6/28/2024,Personal reasons,610.5833333
+Product Manager,Network Operations,60,Male,Single,4,Retirement,12/30/2024,Better opportunity,426.5416667
+Customer Support Agent,Human Resources,26,Male,Married,2,Termination,12/21/2022,Better opportunity,428.75
+Customer Support Agent,Network Operations,51,Female,Married,4,Termination,6/9/2024,Work-life balance,360.1666667
+Network Engineer,Human Resources,60,Female,Married,4,Retirement,10/22/2023,End of service,420.9166667
+Product Manager,Sales & Marketing,46,Female,Single,4,Resignation,9/19/2023,Career growth,359.0833333
+Marketing Analyst,Billing,43,Female,Single,4,Termination,9/28/2023,Work-life balance,148.5
+IT Support Engineer,Human Resources,47,Male,Single,7,Resignation,9/22/2022,Personal reasons,265.4166667
+IT Support Engineer,Network Operations,24,Male,Single,5,Resignation,4/15/2023,Better opportunity,255.0833333
+Marketing Analyst,Project Management,60,Male,Married,2,Retirement,1/2/2024,Personal reasons,185.625
+HR Specialist,IT & Software,60,Female,Single,10,Retirement,7/31/2024,Restructuring,360.2916667
+Software Developer,Field Operations,43,Female,Single,2,Termination,5/20/2023,Personal reasons,415.375
+Telecom Technician,Human Resources,60,Male,Single,7,Retirement,8/11/2024,Restructuring,415.25
+Telecom Technician,Field Operations,42,Male,Single,7,Termination,10/13/2024,Policy violation,225.25
+Billing Specialist,Network Operations,60,Female,Married,2,Retirement,2/23/2024,End of service,591.9166667
+Telecom Technician,IT & Software,53,Male,Single,2,Resignation,1/5/2024,Work-life balance,390.6666667
+Billing Specialist,Human Resources,54,Male,Married,5,Termination,6/7/2023,Better opportunity,327.9166667
+Billing Specialist,Billing,59,Male,Married,7,Resignation,8/20/2024,End of service,488.6666667
+Product Manager,Billing,28,Male,Single,7,Resignation,12/5/2024,Better opportunity,516.9166667
+Project Manager,Data Analytics,58,Female,Single,4,Resignation,2/11/2024,Performance issues,161.1666667
+Marketing Analyst,Network Operations,60,Male,Married,10,Retirement,4/28/2023,Career growth,432.0416667
+IT Support Engineer,IT & Software,60,Female,Single,2,Retirement,6/17/2024,Career growth,132.6666667
+Product Manager,Field Operations,35,Female,Single,4,Termination,3/30/2023,Personal reasons,222.8333333
+IT Support Engineer,Human Resources,60,Male,Single,7,Retirement,11/18/2023,Personal reasons,560.5416667
+Network Engineer,Network Operations,60,Male,Single,4,Retirement,7/11/2024,Work-life balance,273.3333333
+Project Manager,Field Operations,52,Male,Single,7,Termination,11/2/2023,Personal reasons,341.875
+Telecom Technician,Billing,47,Male,Married,3,Resignation,1/26/2022,Restructuring,272.0833333
